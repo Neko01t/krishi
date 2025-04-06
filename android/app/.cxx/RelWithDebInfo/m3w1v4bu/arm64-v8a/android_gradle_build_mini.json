@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/oms/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/oms/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/oms/Downloads/trash/code2/newkrishi/featureOmupdate5/krishi/android/app/.cxx/RelWithDebInfo/m3w1v4bu/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/oms/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/oms/Downloads/trash/code2/newkrishi/featureOmupdate5/krishi/android/app/.cxx/RelWithDebInfo/m3w1v4bu/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

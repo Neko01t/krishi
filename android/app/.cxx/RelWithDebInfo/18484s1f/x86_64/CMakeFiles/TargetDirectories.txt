@@ -1,0 +1,2 @@
+/home/oms/Downloads/trash/code2/krishiv2/krishiv2/android/app/.cxx/RelWithDebInfo/18484s1f/x86_64/CMakeFiles/edit_cache.dir
+/home/oms/Downloads/trash/code2/krishiv2/krishiv2/android/app/.cxx/RelWithDebInfo/18484s1f/x86_64/CMakeFiles/rebuild_cache.dir

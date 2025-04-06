@@ -1,0 +1,2 @@
+/home/oms/Downloads/trash/code2/newkrishi/featureOmupdate5/krishi/android/app/.cxx/RelWithDebInfo/m3w1v4bu/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/oms/Downloads/trash/code2/newkrishi/featureOmupdate5/krishi/android/app/.cxx/RelWithDebInfo/m3w1v4bu/arm64-v8a/CMakeFiles/rebuild_cache.dir
