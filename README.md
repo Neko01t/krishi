@@ -12,7 +12,7 @@ Real-time monitoring of soil moisture, temperature, humidity, and other environm
 Suggests the most suitable crops based on soil condition, NPK values, and real-time sensor inputs.
 -  **🧮 NPK Calculator**
 Calculates Nitrogen, Phosphorus, and Potassium requirements based on soil condition to ensure balanced nutrition.
--  ** 🧠 Smart Farming Insights**
+-  **🧠 Smart Farming Insights**
 AI-driven recommendations for irrigation, fertilization, and pest control.
 -  **💰 Expense Tracker**
 Helps farmers manage and track their day-to-day farming expenses, providing financial awareness and control.
